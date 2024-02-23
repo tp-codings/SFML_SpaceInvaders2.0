@@ -1,4 +1,4 @@
-# Random Cubes
+# Space Invaders 2.0
 
 A little Space Invaders game based on SFML. 
 
@@ -9,7 +9,7 @@ A little Space Invaders game based on SFML.
 # Getting Started
 
 1. Clone Repository
-`git clone <https://github.com/tp-codings/KITTIVIS_3D.git`>
+`git clone <https://github.com/tp-codings/SFML_SpaceInvaders2.0.git`>
 2. Build Executable (e.g. Visual Studio)
 
 # Usage
