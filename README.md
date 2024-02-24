@@ -6,7 +6,7 @@ A little Space Invaders game based on SFML for a friend of mine.
 
 | Personal Rating | Year of Development | Languages | Tools | Type of Application |
 | --- | --- | --- | --- | --- |
-| ⭐️ 1/5) | 2023 | C++ | SFML | Game |
+| ⭐️ 1/5) | 2021 | C++ | SFML | Game |
 
 ## Features
 - move spacecraft
