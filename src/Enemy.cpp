@@ -59,6 +59,6 @@ void Enemy::initShape(Texture* texture, float posX, float posY)
 {
 	this->shape.setPosition(posX, posY);
 	this->shape.setRadius(this->pointCount);
-	this->shape.setFillColor(Color(rand() % 255 + 1, rand() % 255 + 1, rand() % 255 + 1, 255));
+	//this->shape.setFillColor(Color(rand() % 255 + 1, rand() % 255 + 1, rand() % 255 + 1, 255));
 	this->shape.setTexture(texture);
 }

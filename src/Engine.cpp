@@ -338,12 +338,12 @@ void Engine::initTextures()
 	this->textures["BULLET"] = new Texture();
 	this->textures["Enemy"] = new Texture();
 	this->textures["World"] = new Texture();
-	if (!this->textures["BULLET"]->loadFromFile("Texture/penis.png"))
+	if (!this->textures["BULLET"]->loadFromFile("Texture/aperol.png"))
 	{
 		std::cout << "ERROR::ENGINE::INITTEXTURE::FAILED LOAD FROM FILE";
 	}
 
-	if (!this->textures["Enemy"]->loadFromFile("Texture/bullet.png"))
+	if (!this->textures["Enemy"]->loadFromFile("Texture/bullet2.png"))
 	{
 		std::cout << "ERROR::ENGINE::INITTEXTURE::FAILED LOAD FROM FILE";
 	}
